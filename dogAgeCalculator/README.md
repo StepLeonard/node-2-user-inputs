@@ -38,6 +38,8 @@ Examples:
 
 Your app will accept a dog's name and age in human years, and return a sentence about their age in dog years. 
 
+
+
 ## Assumptions
 
 You can assume the user will enter whole numbers greater than 0 for the dog's age. 
@@ -100,3 +102,4 @@ After your main program works, add a few extra touches:
 - What if someone types 7.5 as the dog’s age? 
 - Do you round up? Round down? Or show the exact decimal?
 - Decide how you want your program to handle it and explain your choice in a comment.
+
